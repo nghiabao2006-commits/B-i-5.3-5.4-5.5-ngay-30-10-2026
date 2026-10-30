@@ -23,22 +23,22 @@ kết nối ConnectionString cho phù hợp với máy cá nhân.
 ##ảnh màn hình chính
 <img width="1362" height="829" alt="bai5 3giaodien" src="https://github.com/user-attachments/assets/71e282cf-b884-4475-be1e-d0af43be510a" />
 
-##ảnh dịch vụ
-<img width="1400" height="858" alt="bai5 3dichvu" src="https://github.com/user-attachments/assets/f6ee353c-09c5-4882-a66b-8a517a49f4e4" />
-
 ##ảnh thanh toán
 <img width="1365" height="829" alt="bai5 3thanhtoan" src="https://github.com/user-attachments/assets/8fb892d0-d67f-43db-a7fb-031ce31cea4c" />
 
 ##ảnh thanh toán thành công
 <img width="1362" height="830" alt="bai5 3thanhtoanthanhcong" src="https://github.com/user-attachments/assets/6095b464-2af1-476d-aa33-c5aa3a9723ed" />
 
-##ảnh thêm khách hàng
-<img width="1400" height="859" alt="bai5 3themkhachhang" src="https://github.com/user-attachments/assets/38a1e71b-dc01-4efb-9303-0b2d5d97cc17" />
-
 ##BÀI 5.4
 
 ##ảnh check-in
 <img width="1400" height="861" alt="bai5 4checkin" src="https://github.com/user-attachments/assets/be222937-8e23-46bd-ad88-3382342ad69d" />
+
+##ảnh thêm khách hàng
+<img width="1400" height="859" alt="bai5 3themkhachhang" src="https://github.com/user-attachments/assets/38a1e71b-dc01-4efb-9303-0b2d5d97cc17" />
+
+##ảnh dịch vụ
+<img width="1400" height="858" alt="bai5 3dichvu" src="https://github.com/user-attachments/assets/f6ee353c-09c5-4882-a66b-8a517a49f4e4" />
 
 ##ảnh tìm kiếm phòng
 <img width="1400" height="859" alt="bai5 4timkiemphong" src="https://github.com/user-attachments/assets/978ce804-90c2-4ca9-8f17-2a82f7acc5c4" />
